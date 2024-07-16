@@ -1,3 +1,6 @@
 p {
    color: green;
 }
+p:last-child {
+   color: purple;
+}
