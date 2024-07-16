@@ -4,3 +4,6 @@ p {
 p:last-child {
    color: purple;
 }
+div {
+   color: yellow;
+}
